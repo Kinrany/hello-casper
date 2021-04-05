@@ -1,0 +1,1 @@
+casper-client put-deploy --node-address http://167.86.108.79:7777 --chain-name delta-11 --secret-key ./keys/secret_key.pem --payment-amount 100000000 --session-path ./contract/target/wasm32-unknown-unknown/release/contract.wasm --session-arg "message:string='kinrany'"
