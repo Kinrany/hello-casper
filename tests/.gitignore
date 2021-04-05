@@ -1,2 +1,2 @@
 # Output of `contract` copied during build time
-./wasm/
+wasm/
